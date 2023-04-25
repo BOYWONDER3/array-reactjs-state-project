@@ -10,10 +10,13 @@
 
 5. Add the ability to add a new element to the end of the array: same as task 4 above
 
-6. Add the ability to clear the array: 
+6. Add the ability to clear the array: just set the array to an empty array
 
-7. Add the ability to reset the array to the initial value
-8. Add the ability to update all A elements in the array to H
-9. Add an input that is connected to state and a button that will add the input value to the start of the array
-10. Add the ability to add a new element at any index in the array
+7. Add the ability to reset the array to the initial value: create a global variable and set it as the initial value of the array  
+
+8. Add the ability to update all A elements in the array to H: using the .map() function
+
+9. Add an input that is connected to state and a button that will add the input value to the start of the array: create a new useState value and add the input to a button 
+
+10. Add the ability to add a new element at any index in the array: 
 
